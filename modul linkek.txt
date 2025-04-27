@@ -1,7 +1,6 @@
 Modify data with T-SQL Badge link
 https://learn.microsoft.com/api/achievements/share/en-us/CsontosRoland-7976/URXTXC83?sharingId=A1B64677D4DE8D2B
 
-
 Use built-in functions and GROUP BY in Transact-SQL Badge link
 https://learn.microsoft.com/api/achievements/share/en-us/CsontosRoland-7976/D96V6QXJ?sharingId=A1B64677D4DE8D2B
 
