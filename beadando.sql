@@ -8,7 +8,7 @@ CREATE TABLE dbo.ÜGYFEL_MASZKOLT (
     LOGIN VARCHAR(32) INT PRIMARY KEY,
     EMAIL VARCHAR(64) MASKED WITH (FUNCTION = 'email()') NULL,
     NEV VARCHAR(64) MASKED WITH (FUNCTION = 'partial(1,"xxx",0)') NULL,
-    NEM VARCHAR(1),
+    NEM VARCHAR(1), -- A nem nem kerül maszkolásra
     CIM VARCHAR(128) MASKED WITH (FUNCTION = 'partial(0,"X",0)') NULL
 );
 
